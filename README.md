@@ -1,15 +1,76 @@
-👋 Hi, I’m Daniel
+# 👋 Hi, I'm Daniel Shobe
 
-👨‍💻 I’m a Full-Stack Web Developer specializing in building scalable applications using React, Next.js, Node.js, MongoDB, and Tailwind CSS.
-👀 I’m passionate about leveraging AI and Machine Learning to solve real-world problems, with a strong focus on projects using Python.
-🎓 I hold a degree in Software Engineering from Addis Ababa Science and University and have since been working in the tech industry, gaining hands-on experience in web and software development.
-💼 I’m currently working as a Software Developer and always looking for opportunities to collaborate on exciting projects in AI, Machine Learning, and modern web development using technologies like React, Next.js, and Tailwind CSS.
-🌱 In addition to my day-to-day work, I’m continuously learning and exploring advancements in AI, Cloud Computing, and DevOps to enhance my skillset.
-💡 I enjoy tackling complex challenges in full-stack development, from designing robust backend systems to creating sleek and responsive front-end interfaces.
-📫 Feel free to reach out to me at danielshobe90@gmail.com for collaboration or networking.
+🚀 **Full-Stack Developer | AI Enthusiast | Problem Solver**
 
+---
 
-<!---
-moheranus/moheranus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About Me
+I’m a passionate **Full-Stack Web Developer** focused on building scalable and user-friendly applications using modern technologies.
+
+- 💻 Specialized in **React, Next.js, Node.js, MongoDB, Tailwind CSS**
+- 🤖 Interested in **AI & Machine Learning** with hands-on Python projects
+- 🎓 B.Sc. in **Software Engineering** from Addis Ababa Science & Technology University
+- 💼 Currently working as a **Software Developer**
+- 🌍 Based in **Ethiopia**
+
+---
+
+## 🔧 Tech Stack
+
+### 🚀 Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- Material UI (MUI)
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### 🗄️ Database
+- MongoDB
+- MySQL
+
+### 🤖 AI / Data
+- Python
+- Machine Learning (basic to intermediate)
+
+### ☁️ Tools & DevOps
+- Git & GitHub
+- Docker (learning)
+- Azure (basic)
+- Linux
+
+---
+
+## 🌱 Currently Learning
+- Advanced **Machine Learning & AI Engineering**
+- **Cloud Computing (Azure)**
+- **DevOps & System Design**
+
+---
+
+## 💡 What I Enjoy
+- Building scalable full-stack applications  
+- Solving real-world problems with AI  
+- Designing clean and responsive UI/UX  
+- Working on impactful tech projects  
+
+---
+
+## 🤝 Let's Collaborate
+I’m always open to collaborating on:
+- AI / Machine Learning projects  
+- Full-stack web applications  
+- Open-source contributions  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **danielshobe90@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/daniel-shobe-911279199
+
+---
+
+⭐ *"Turning ideas into scalable digital solutions."*
